@@ -5,112 +5,133 @@
       "id": "browser",
       "name": "Browser",
       "description": "Built-in web browser with tabs, bookmarks, and multiple view modes. Browse the web without leaving your workspace.",
-      "version": "1.20.2",
+      "version": "1.22.3",
       "icon": "Globe",
       "shortcut": "⌘⇧B",
       "isPro": true,
       "status": "available",
       "size": "2MB",
       "minAppVersion": "1.20.0",
-      "downloadUrl": "https://github.com/codesplash-ai/git-extensions/releases/download/v1.20.2/ext-browser.tar.gz",
+      "downloadUrl": "https://github.com/codesplash-ai/git-extensions/releases/download/v1.22.3/ext-browser.tar.gz",
       "hidesGitSidebar": true,
-      "hasPanel": true
+      "hasPanel": true,
+      "tags": [
+        "Productivity"
+      ]
     },
     {
       "id": "files",
       "name": "Files",
       "description": "Full-featured file manager with dual panes, compression, symlinks, and volume browsing.",
-      "version": "1.20.2",
+      "version": "1.22.3",
       "icon": "FolderOpen",
       "shortcut": "⌘O",
       "isPro": true,
       "status": "available",
       "size": "4MB",
       "minAppVersion": "1.20.0",
-      "downloadUrl": "https://github.com/codesplash-ai/git-extensions/releases/download/v1.20.2/ext-files.tar.gz",
+      "downloadUrl": "https://github.com/codesplash-ai/git-extensions/releases/download/v1.22.3/ext-files.tar.gz",
       "hidesGitSidebar": true,
-      "hasPanel": true
+      "hasPanel": true,
+      "tags": [
+        "Productivity"
+      ]
     },
     {
       "id": "notes",
       "name": "Notes",
       "description": "Markdown note-taking with live preview, rich text editing, and vault-based organization.",
-      "version": "1.20.2",
+      "version": "1.22.3",
       "icon": "NotebookPen",
       "shortcut": "⌘N",
       "isPro": true,
       "status": "available",
       "size": "6MB",
       "minAppVersion": "1.20.0",
-      "downloadUrl": "https://github.com/codesplash-ai/git-extensions/releases/download/v1.20.2/ext-notes.tar.gz",
+      "downloadUrl": "https://github.com/codesplash-ai/git-extensions/releases/download/v1.22.3/ext-notes.tar.gz",
       "hidesGitSidebar": true,
-      "hasPanel": true
+      "hasPanel": true,
+      "tags": [
+        "Productivity"
+      ]
     },
     {
       "id": "database",
       "name": "Database Client",
       "description": "Connect to MySQL, PostgreSQL, MSSQL, and Neon databases. Run queries, browse tables, and export results.",
-      "version": "1.20.2",
+      "version": "1.22.3",
       "icon": "Database",
       "shortcut": "⌘D",
       "isPro": true,
       "status": "available",
       "size": "18MB",
       "minAppVersion": "1.20.0",
-      "downloadUrl": "https://github.com/codesplash-ai/git-extensions/releases/download/v1.20.2/ext-database.tar.gz",
+      "downloadUrl": "https://github.com/codesplash-ai/git-extensions/releases/download/v1.22.3/ext-database.tar.gz",
       "hidesGitSidebar": true,
-      "hasPanel": true
+      "hasPanel": true,
+      "tags": [
+        "Developer Tools"
+      ]
     },
     {
       "id": "api",
       "name": "API Client",
       "description": "REST API testing with collections, environments, request history, and pre/post scripts.",
-      "version": "1.20.2",
+      "version": "1.22.3",
       "icon": "Send",
       "shortcut": "⌘⇧A",
       "isPro": true,
       "status": "available",
       "size": "2MB",
       "minAppVersion": "1.20.0",
-      "downloadUrl": "https://github.com/codesplash-ai/git-extensions/releases/download/v1.20.2/ext-api.tar.gz",
+      "downloadUrl": "https://github.com/codesplash-ai/git-extensions/releases/download/v1.22.3/ext-api.tar.gz",
       "hidesGitSidebar": true,
-      "hasPanel": true
+      "hasPanel": true,
+      "tags": [
+        "Developer Tools"
+      ]
     },
     {
       "id": "email",
       "name": "Email",
       "description": "Email client supporting Gmail, Outlook, and IMAP. Manage multiple accounts, folders, and filters.",
-      "version": "1.20.2",
+      "version": "1.22.3",
       "icon": "Mail",
       "shortcut": "⌘⇧M",
       "isPro": true,
       "status": "available",
       "size": "15MB",
       "minAppVersion": "1.20.0",
-      "downloadUrl": "https://github.com/codesplash-ai/git-extensions/releases/download/v1.20.2/ext-email.tar.gz",
+      "downloadUrl": "https://github.com/codesplash-ai/git-extensions/releases/download/v1.22.3/ext-email.tar.gz",
       "hidesGitSidebar": true,
-      "hasPanel": false
+      "hasPanel": false,
+      "tags": [
+        "Communication"
+      ]
     },
     {
       "id": "command-center",
       "name": "Command Center",
       "description": "Analytics dashboard with session metrics, activity history, and system logs.",
-      "version": "1.20.2",
+      "version": "1.22.3",
       "icon": "LayoutGrid",
       "shortcut": "⌘⇧C",
       "isPro": true,
       "status": "available",
       "size": "5MB",
       "minAppVersion": "1.20.0",
-      "downloadUrl": "https://github.com/codesplash-ai/git-extensions/releases/download/v1.20.2/ext-command-center.tar.gz",
+      "downloadUrl": "https://github.com/codesplash-ai/git-extensions/releases/download/v1.22.3/ext-command-center.tar.gz",
       "hidesGitSidebar": true,
-      "hasPanel": false
+      "hasPanel": false,
+      "tags": [
+        "Developer Tools"
+      ]
     },
     {
       "id": "kanban",
       "name": "Kanban Board",
       "description": "Visual project management with drag-and-drop cards, columns, and labels.",
-      "version": "1.20.2",
+      "version": "1.22.3",
       "icon": "LayoutKanban",
       "shortcut": "",
       "isPro": true,
@@ -119,13 +140,16 @@
       "minAppVersion": "",
       "downloadUrl": "",
       "hidesGitSidebar": true,
-      "hasPanel": false
+      "hasPanel": false,
+      "tags": [
+        "Productivity"
+      ]
     },
     {
       "id": "calendar",
       "name": "Calendar",
       "description": "Schedule and time management integrated with your development workflow.",
-      "version": "1.20.2",
+      "version": "1.22.3",
       "icon": "Calendar",
       "shortcut": "",
       "isPro": true,
@@ -134,13 +158,16 @@
       "minAppVersion": "",
       "downloadUrl": "",
       "hidesGitSidebar": true,
-      "hasPanel": false
+      "hasPanel": false,
+      "tags": [
+        "Productivity"
+      ]
     },
     {
       "id": "docker",
       "name": "Docker Manager",
       "description": "Manage Docker containers, images, and compose files from your workspace.",
-      "version": "1.20.2",
+      "version": "1.22.3",
       "icon": "Container",
       "shortcut": "",
       "isPro": true,
@@ -149,7 +176,10 @@
       "minAppVersion": "",
       "downloadUrl": "",
       "hidesGitSidebar": true,
-      "hasPanel": false
+      "hasPanel": false,
+      "tags": [
+        "Developer Tools"
+      ]
     }
   ]
 }
